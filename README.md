@@ -1,1 +1,1 @@
-# Loan-whether-paid-off-or-not-prediction-using-classification-with-python
+# Loan-Case-will-be-Paid-OFF-or-NOT-Prediction-using-Classification-with-Python
